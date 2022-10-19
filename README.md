@@ -17,6 +17,7 @@ Functional peripherals:
 - SIM Card
 - Accelerometer
 - Vibrator motor
+- Environmental sensors
 
 Power supply:
 - Cell button (1 or 2) **TO BE DEFINED**

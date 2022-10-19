@@ -6,6 +6,8 @@ https://stackoverflow.com/questions/54870604/how-to-connect-a-microcontroller-to
 
 ## GSM GPRS Module
 https://www.eagle-robotics.com/accueil/233-sim900-module-gsm-gprs.html
+https://fr.rs-online.com/web/p/modules-gnss-et-gps/9084114
+
 
 ## IMU 
 6-axis Inertial Measurement Unit:
