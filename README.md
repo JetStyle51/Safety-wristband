@@ -1,6 +1,10 @@
 # Safety Wristband
 Safety wristband is a device allowing the seniors to alert their family member in case of fall or difficulty.
 
+<p align="center">
+<img src="./res/Product_example.jpg" /> 
+</p>
+
 > :warning:  This project is at its initial development and can't be used yet.
 ## Architecture
 Microcontroller:
