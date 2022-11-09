@@ -1,5 +1,12 @@
 Documentation folder
 
+## MCU
+Manufacturer | Model | Package | Flash | Clock (MHz)
+--- | --- | --- | --- | --- |
+NXP | LPC54605J512BD100 | LQFP100 | 512 | 180 |
+ST | STM32L4xxx
+Microchip |
+
 ## SIM Card
 Advices on connecting SIM card device to a microcontroller
 https://stackoverflow.com/questions/54870604/how-to-connect-a-microcontroller-to-internet-using-a-sim-card
